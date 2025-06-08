@@ -17,6 +17,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Une **modale légère et accessible** pour vos projets React, idéale pour afficher des messages de confirmation ou d'information après la soumission d'un formulaire.
 
+Voici une démo de l'interface ;
+
+![Démo de l'interface](./assets/modale.png)
+
 ## 🚀 Installation
 
 Installez le package via npm :

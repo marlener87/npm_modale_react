@@ -1,6 +1,6 @@
 {
   "name": "modale_form_npm",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "modale pour formulaire en react",
   "main": "dist/modale.cjs.js",
   "module": "dist/modale.es.js",
